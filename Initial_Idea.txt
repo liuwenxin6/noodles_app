@@ -1,0 +1,10 @@
+﻿Wenxin Liu
+November 3, 2021
+CSC 190
+Proposal for project
+
+
+I intend to construct an application or website that is able to return the price history chart based on the amazon product link the user provided, and it should return an error message if the website is not valid. For the implementation part, I will just grab information from the website camelcamelcamel to show to my users.
+
+
+Backup plan: an application that converts integers entered by the user to roman numerals.
