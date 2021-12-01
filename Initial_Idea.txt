@@ -4,7 +4,6 @@ CSC 190
 Proposal for project
 do a branch
 
-I intend to construct an application or website that is able to return the price history chart based on the amazon product link the user provided, and it should return an error message if the website is not valid. For the implementation part, I will just grab information from the website camelcamelcamel to show to my users.
-
-
-Backup plan: an application that converts integers entered by the user to roman numerals.
+User selects different kind of pasta & the level they want it cooked from a built-in list.
+The app sets a timer or just shows the amount of time appropriate for the boiling time of that specific kinds of pasta they entered. 
+The users can also add in user-specified kinds of pasta and their cooking time.
