@@ -1,9 +1,9 @@
 ﻿Wenxin Liu
-November 3, 2021 or maybe later too
+November 3, 2021 and definitely later too
 CSC 190
 Proposal for project
 do a branch
 
 User selects different kind of pasta & the level they want it cooked from a built-in list.
 The app sets a timer or just shows the amount of time appropriate for the boiling time of that specific kinds of pasta they entered. 
-The users can also add in user-specified kinds of pasta and their cooking time.
+The users can also add in user-specified kinds of pasta and their cooking time (gets cleared up each time they refresh the page).
