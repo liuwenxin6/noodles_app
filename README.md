@@ -1,4 +1,4 @@
-This project served as my final project for the class Software engineering CSC 180 using the template from Svelte app.
+This project served as my final project for the class Software engineering CSC 180 from Fall 2021 using the template from Svelte app.
 
 The idea of this web app is to provide users with the number of minutes needed for different kinds of basic pasta listed with 3 levels of cookednesses (firm, avg, or soft) with user's ability to add user-specific noodles. The initaitive of this app is because once I cooked a whole box of pasta and threw away the box right away without checking the number of minutes needed. Ended up having to dig in my trash to be able to read the number of minutes needed. 
 
